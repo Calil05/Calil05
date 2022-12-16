@@ -5,7 +5,7 @@
 
 Sou técnico em Desenvolvimento de Sistemas pela **Etec Prof. Massuyuki Kawano de Tupã.**
 
-Atualmente curso BigData no Agronegócio na **Fatec Shunji Nishimura de Pompéia.**
+Atualmente cursando BigData no Agronegócio na **Fatec Shunji Nishimura de Pompéia.**
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-calil-8a6843233/)
 
