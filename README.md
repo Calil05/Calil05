@@ -9,7 +9,7 @@ Atualmente cursando BigData no Agroneg√≥cio na **Fatec Shunji Nishimura de Pomp√
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-calil-8a6843233/)
 
-![Gabriel Calil Status](https://github-readme-stats.vercel.app/api?username=calil05&show_icons=true&theme=dark&locale=pt-br)
+![Gabriel Calil Status](https://github-readme-stats.vercel.app/api?username=Calil05&show_icons=true&theme=dark&locale=pt-br)
 
 ## Principais Tecnologias:
 
@@ -41,4 +41,4 @@ Atualmente cursando BigData no Agroneg√≥cio na **Fatec Shunji Nishimura de Pomp√
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calil05&layout=compact&theme=dark&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calil05&layout=compact&theme=dark&locale=pt-br)
